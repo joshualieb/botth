@@ -8,6 +8,7 @@ CONTENTS OF THIS FILE
  * Appearance
  * Developing for Drupal
  * More information
+ * This is an edit
 
 ABOUT DRUPAL
 ------------
